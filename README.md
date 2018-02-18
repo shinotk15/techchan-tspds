@@ -29,4 +29,4 @@ When you extend this program, you have to follow the rules of TechChan.
 --------------------------------------------------------------------------  
 Takahiro Shinozaki  
 Tokyo Institute of Technology  
-<www.ts.ip.titech.ac.jp>  
+<http://www.ts.ip.titech.ac.jp>  
